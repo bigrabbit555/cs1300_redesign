@@ -1,0 +1,42 @@
+body {
+    margin: 40px 100px;
+    line-height: 1.6;
+    font-size: 1.3em;
+    color: #444;
+}
+
+h1, h2, h3 {
+    line-height: 1.2;
+    /* color: #367fff; */
+}
+
+h1 {
+    color: #013280;
+}
+
+h2 {
+    color: #0259e3;
+}
+
+h3 {
+    color: #669ffa;
+}
+
+.image {
+    width: 80%;
+}
+
+a {
+    text-decoration: none;
+    color: inherit;
+}
+
+.text {
+    width: 65%;
+}
+
+.caption {
+    text-align: center;
+    margin: 0;
+    width: 80%;
+}

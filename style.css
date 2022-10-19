@@ -22,8 +22,16 @@ h3 {
     color: #669ffa;
 }
 
+h4 {
+    color: #86d1f7;
+}
+
 .image {
-    width: 80%;
+    max-width: 80%;
+}
+
+img {
+    margin: auto;
 }
 
 a {

@@ -11,19 +11,24 @@ h1, h2, h3 {
 }
 
 h1 {
-    color: #013280;
+    font-size: 3.5em;
+    color: #012280;
+
 }
 
 h2 {
-    color: #0259e3;
+    font-size: 2.2em;
+    color: #0249e3;
 }
 
 h3 {
-    color: #669ffa;
+    font-size: 1.8em;
+    color: #366ffa;
 }
 
 h4 {
-    color: #86d1f7;
+    font-size: 1.5em;
+    color: #5691f7;
 }
 
 .image {
